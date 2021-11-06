@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "vco_module-backups")(type "KiCad")(uri "${KIPRJMOD}/vco_module-backups")(options "")(descr ""))
+  (lib (name "Libraries")(type "KiCad")(uri "${KIPRJMOD}/Libraries")(options "")(descr ""))
+)
